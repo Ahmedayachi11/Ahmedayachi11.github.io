@@ -6,7 +6,7 @@ I'm Ahmed Ayachi, an indie Unity Game Developer with a nearly 2 years of experie
 
 ##  Projects
 ### I Doubt it 
-![in game](/Images/in game.JPG)
+![in_game_screen_shot](/assets/in_game.jpg)
 - **Description**: I Doubt-it is  card game that can be played from 2-8 Players, each player's objective is to get rid of all cards dealt to him , last player with cards in his hands is the Looser.
 - **Technologies Used**: Unity, C#, Photon Fusion SDK, Google AdMob SDK, Google Play Games Services SDK.
 - **Main Responsibilities** :  As the main developer, my responsibilities include implementing game logic, networking, testing, implementing UI/UX design, audio integration, and SDK integration.
