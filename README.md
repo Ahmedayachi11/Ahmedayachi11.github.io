@@ -1,5 +1,5 @@
 ## About Me
-I'm a Unity Game Developer with nearly 2 years of experience, I'm passionate about creating engaging experiences through code.
+I'm a Unity Game Developer with 2 years of experience, I'm passionate about creating engaging experiences through code.
 ## Skills
 - Unity 
 - C# 
