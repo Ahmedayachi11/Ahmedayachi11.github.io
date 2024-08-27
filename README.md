@@ -16,7 +16,12 @@ I'm a Unity Game Developer with 2 years of experience, I'm passionate about crea
 	- *Testing*: using Unit testing to Validate code in Isolation and Automated Testing to create various Scenarios to test different stages of the game and with photon's fusion Multi- peer mode I was able to test multiple Peers on one Unity editor.
 	- *SDK integration*: Integrated Google AdMob, Google Play Games Services and PlayFab following official documentation.. 
 	- *UI/UX Design & Audio*: Contributed to the implementation of user interface/user experience design and integrated sound effects/music.
- - **Project Link**: You can find the game “Doubt It” on the Google Play Store. Feel free to download and enjoy the game! Here is the[link](https://play.google.com/store/apps/details?id=com.SpicyHarissa.Doubt_It).
+ - **Project Link**: You can find the game “Doubt It” on the Google Play Store. Feel free to download and enjoy the game! Here is the [link](https://play.google.com/store/apps/details?id=com.SpicyHarissa.Doubt_It).
+
+## Personal Project
+### Pixel Suika-like
+![in_game_screen_shot](/Pixel_Suika_Shots.png)
+- A pixel art style game inspired by the infamous Suika game using unity and C# I implemented the core gameplay mechanics and for optimization I used object pooling to enhance performance and reduce memory .
 
 ## Contact Me
 - **Email**: ahmed.ayachi1998@outlook.com
