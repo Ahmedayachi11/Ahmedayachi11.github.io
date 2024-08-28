@@ -2,14 +2,19 @@
 I'm a Unity Game Developer with 2 years of experience, I'm passionate about creating engaging experiences through code.
 ## Skills
 - Unity 
-- C# 
+- C#
+- Networking
+- Testing
+- Debugging
+- Problem Solving
+- GitHub
 
 ##  Project
 ### Doubt it 
 ![in_game_screen_shot](/assets/ingame_screen_shots.png)
 - **Description**: "Doubt it" is  card game that can be played from 2-8 Players, each player's objective is to get rid of all cards dealt to him , last player with cards in his hands is the Looser.
 - **Technologies Used**: Unity, C#, Photon Fusion SDK, Google AdMob SDK, Google Play Games Services SDK.
-- **My Role** :  Game Programmer. 
+- **My Role** : Unity Game Developer. 
 - **Main Responsibilities** : 
 	- *Game Logic Development*: Implemented the core gameplay mechanics using a structured approach for managing game states and centralizing game logic.
 	- *Multiplayer Networking*: Implemented a Host/Client network architecture using the Photon Fusion SDK for online multiplayer functionality.  
