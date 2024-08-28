@@ -20,7 +20,7 @@ I'm a Unity Game Developer with 2 years of experience, I'm passionate about crea
 
 ## Personal Project
 ### Pixel Suika-like
-![in_game_screen_shot](/Pixel_Suika_Shots.png)
+![in_game_screen_shot](/assets/Pixel_Suika_Shots.png)
 - A pixel art style game inspired by the infamous Suika game using unity and C# I implemented the core gameplay mechanics and for optimization I used object pooling to enhance performance and reduce memory .
 
 ## Contact Me
