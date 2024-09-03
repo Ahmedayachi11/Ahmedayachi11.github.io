@@ -1,5 +1,5 @@
 ## About Me
-I'm a Unity Game Developer with 2 years of experience, I'm passionate about creating engaging experiences through code.
+I’m a Unity Game Developer with a passion for creating immersive and engaging games.
 ## Skills
 - Unity 
 - C#
@@ -29,4 +29,4 @@ I'm a Unity Game Developer with 2 years of experience, I'm passionate about crea
 - A pixel art style game inspired by the infamous Suika game using unity and C# I implemented the core gameplay mechanics and for optimization I used object pooling to enhance performance and reduce memory .
 
 ## Contact Me
-- **Email**: ahmed.ayachi1998@outlook.com
+- **Email**: ahmadayachi@outlook.com
